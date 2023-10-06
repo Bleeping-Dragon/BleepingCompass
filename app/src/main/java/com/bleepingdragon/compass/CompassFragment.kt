@@ -124,7 +124,7 @@ class CompassFragment : Fragment(), SensorEventListener {
     override fun onResume() {
         super.onResume()
 
-        orientationSensor = sensorManager.getDefaultSensor(Sensor.TYPE_ORIENTATION)
+        orientationSensor = sensorManager.getDefaultSensor(Sensor.TYPE_ORIENTATION)!!
 
         //"this" is the listener from the main activity SensorEventListener interface
         sensorManager.registerListener(this, orientationSensor, SensorManager.SENSOR_DELAY_GAME)
