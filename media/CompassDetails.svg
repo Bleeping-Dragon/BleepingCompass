@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200.00001 200.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="CompassDetails.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0708779"
+     inkscape:cx="400.13899"
+     inkscape:cy="305.35694"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Details">
+    <g
+       id="g3196"
+       inkscape:label="SmallTick">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3192"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="6.1099448" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3194"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="189.35855" />
+    </g>
+    <g
+       id="g3202"
+       inkscape:label="SmallTick"
+       transform="rotate(45,99.999993,100.00133)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3198"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="6.1099448" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3200"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="189.35855" />
+    </g>
+    <g
+       id="g3208"
+       inkscape:label="SmallTick"
+       transform="rotate(90,99.999993,100.00133)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3204"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="6.1099448" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3206"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="189.35855" />
+    </g>
+    <g
+       id="g3214"
+       inkscape:label="SmallTick"
+       transform="rotate(135,99.999993,100.00133)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3210"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="6.1099448" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.6952908;stroke-width:0.0324568"
+         id="rect3212"
+         width="1.0482351"
+         height="4.5341644"
+         x="99.475876"
+         y="189.35855" />
+    </g>
+  </g>
+</svg>

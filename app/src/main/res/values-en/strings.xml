@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="SettingsFloatingButton">App Settings Button</string>
+    <string name="NavItemSettings">Settings</string>
+    <string name="NavItemCompass">Compass</string>
+    <string name="SettingsTitle">Settings</string>
+    <string name="keep_screen_on">Keep Screen On</string>
+    <string name="keep_the_screen_on">While being on the compass screen.</string>
+    <string name="compass_fragment_title">Compass</string>
+    <string name="privacy_policy"><a href="https://bleepingdragon.com/markdown/news-posts/Privacy_Bleeping_Compass/">Privacy Policy</a></string>
+    <string name="show_details">Detailed compass</string>
+    <string name="can_show_details">Can be enabled for a more precise control.</string>
+</resources>

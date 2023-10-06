@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200.00001 200.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="CompassIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.37861252"
+     inkscape:cx="553.33617"
+     inkscape:cy="303.74062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="DarkCompass"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="rotate(45,161.04468,118.21447)"
+     style="stroke-width:8.4;stroke-dasharray:none">
+    <circle
+       style="display:inline;opacity:1;fill:#3e3e3e;fill-opacity:1;stroke:none;stroke-width:8.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path238"
+       cx="105"
+       cy="148.5"
+       r="93.887138"
+       inkscape:label="Background" />
+    <circle
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:2.81115;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="circle2179"
+       cx="105"
+       cy="148.5"
+       inkscape:label="MiddleRing"
+       r="9.8847256" />
+    <path
+       d="m 102.04153,202.92277 q -4.418996,-4.419 -6.516141,-8.01409 -2.172068,-3.59512 -2.172068,-8.61332 0,-6.36634 3.295536,-10.33596 3.295508,-3.8947 8.613293,-3.8947 3.81981,0 6.44125,1.57288 2.54654,1.57284 4.94327,5.24284 l -4.04449,2.24697 q -1.87247,-2.54655 -3.52022,-3.52023 -1.64777,-0.89877 -4.04451,-0.89877 -4.11941,0 -5.542449,2.77123 -1.49798,2.84614 -1.49798,6.29147 0,3.8198 1.572872,6.59103 1.497967,2.84614 5.467557,6.66596 4.419,4.19428 6.66595,7.93918 2.17204,3.81982 2.17204,8.76311 0,4.79349 -2.54652,7.63962 -2.62145,2.92103 -6.36636,2.92103 -3.14574,0 -5.242883,-1.64777 -2.17204,-1.64774 -3.744909,-5.24287 l 4.344102,-1.79755 q 1.12347,2.32183 2.09715,3.14573 0.97368,0.89877 2.54654,0.89877 2.02225,0 3.14573,-1.57286 1.12346,-1.49796 1.12346,-4.19429 0,-3.59513 -1.72267,-6.44126 -1.79753,-2.84614 -5.46755,-6.51615 z"
+       id="path3457"
+       style="font-size:35.8708px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#b8b8b8;fill-opacity:1;stroke-width:12.096;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="South" />
+    <path
+       d="m 181.96393,156.62519 h -4.34412 v -11.53438 h -9.06275 v 7.11535 h -4.04452 v -7.11535 H 133.9539 v 11.53438 h -4.41903 v -16.1032 h 52.42906 z"
+       id="path3448"
+       style="font-size:35.871px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#b8b8b8;fill-opacity:1;stroke-width:12.096;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="East" />
+    <path
+       d="m 80.46579,136.06683 v 5.8421 l -32.281315,6.81578 32.281315,6.59108 v 5.8421 l -52.42905,10.1862 v -4.49392 l 44.86429,-8.61332 -36.250945,-7.71459 v -3.89473 l 36.250945,-7.63966 -44.86429,-8.83804 v -4.49391 z"
+       id="path3451"
+       style="font-size:35.871px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#b8b8b8;fill-opacity:1;stroke-width:12.096;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="Weast" />
+    <path
+       d="m 116.45942,123.96549 h -4.56878 V 94.97988 L 98.109369,78.502269 V 123.96549 H 93.540577 V 71.536733 h 4.568792 l 13.781271,16.47761 v -16.47761 h 4.56878 z"
+       id="path3454"
+       style="font-size:35.8708px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:12.096;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="North" />
+  </g>
+</svg>

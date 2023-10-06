@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200.00001 200.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="ic_launcher_monochrome.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75722504"
+     inkscape:cx="275.34747"
+     inkscape:cy="390.90097"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2312" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="LightYouIcon copia"
+     inkscape:groupmode="layer"
+     id="g2312"
+     transform="matrix(0.51236993,0.51236993,-0.51236993,0.51236993,122.2881,-29.885778)"
+     style="stroke-width:8.4;stroke-dasharray:none">
+    <circle
+       style="display:inline;opacity:1;fill:#3e3e3e;fill-opacity:0;stroke:none;stroke-width:8.4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle2300"
+       cx="105"
+       cy="148.5"
+       r="93.887138"
+       inkscape:label="Background" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:3.77112;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="circle2302"
+       cx="105"
+       cy="148.5"
+       inkscape:label="MiddleRing"
+       r="13.260217" />
+    <path
+       d="m 102.31665,196.31248 q -4.008126,-4.00813 -5.910287,-7.26896 -1.970116,-3.26086 -1.970116,-7.81249 0,-5.77442 2.989129,-9.37496 2.989104,-3.53258 7.812464,-3.53258 3.46466,0 5.84236,1.42663 2.30977,1.42661 4.48367,4.75539 l -3.66846,2.03805 q -1.69837,-2.30978 -3.19291,-3.19293 -1.49457,-0.81521 -3.66847,-0.81521 -3.7364,0 -5.02713,2.51358 -1.358708,2.58151 -1.358708,5.7065 0,3.46465 1.426628,5.97823 1.3587,2.58151 4.95921,6.04618 4.00813,3.80431 6.04617,7.20102 1.97009,3.46467 1.97009,7.94834 0,4.34782 -2.30975,6.92932 -2.37771,2.64945 -5.77444,2.64945 -2.85326,0 -4.75542,-1.49457 -1.97009,-1.49454 -3.39672,-4.75541 l 3.9402,-1.63042 q 1.01902,2.10596 1.90216,2.85326 0.88316,0.8152 2.30978,0.8152 1.83423,0 2.85325,-1.42661 1.01901,-1.35869 1.01901,-3.80433 0,-3.26086 -1.56251,-5.84238 -1.6304,-2.58151 -4.9592,-5.9103 z"
+       id="path2304"
+       style="font-size:35.8708px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#000000;fill-opacity:0.703601;stroke-width:10.9714;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="South" />
+    <path
+       d="m 173.1797,155.93628 h -3.94022 v -10.46196 h -8.22012 v 6.45379 h -3.66848 v -6.45379 h -27.7174 v 10.46196 h -4.00817 v -14.60599 h 47.55439 z"
+       id="path2306"
+       style="font-size:35.871px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#000000;fill-opacity:0.703601;stroke-width:10.9714;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="East" />
+    <path
+       d="m 84.375644,137.29543 v 5.29892 l -29.279914,6.18208 29.279914,5.97826 v 5.29892 l -47.554385,9.23913 v -4.0761 l 40.692969,-7.81248 -32.880462,-6.99731 v -3.53262 l 32.880462,-6.92935 -40.692969,-8.0163 v -4.07609 z"
+       id="path2308"
+       style="font-size:35.871px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#000000;fill-opacity:0.703601;stroke-width:10.9714;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="Weast" />
+    <path
+       d="m 115.39403,127.94769 h -4.144 V 101.65706 L 98.750094,86.711488 V 127.94769 H 94.606092 V 80.393582 h 4.144002 L 111.25003,95.339163 V 80.393582 h 4.144 z"
+       id="path2310"
+       style="font-size:35.8708px;font-family:'Donau Uppercase';-inkscape-font-specification:'Donau Uppercase';opacity:1;fill:#000000;fill-opacity:1;stroke-width:10.9714;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:label="North" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.84229974;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.401662;paint-order:stroke fill markers"
+       id="circle9654"
+       cx="105"
+       cy="148.5"
+       inkscape:label="CircleRing"
+       r="80.770035" />
+  </g>
+</svg>

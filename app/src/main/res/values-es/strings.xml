@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brújula</string>
+    <string name="SettingsFloatingButton">Botón de Ajustes de la Aplicación</string>
+    <string name="NavItemSettings">Ajustes</string>
+    <string name="NavItemCompass">Brújula</string>
+    <string name="SettingsTitle">Ajustes</string>
+    <string name="keep_screen_on">Mantener Pantalla Encendida</string>
+    <string name="keep_the_screen_on">Mientras se está en la sección de la brújula.</string>
+    <string name="compass_fragment_title">Brújula</string>
+    <string name="privacy_policy"><a href="https://bleepingdragon.com/markdown/news-posts/Privacy_Bleeping_Compass/">Política de privacidad</a></string>
+    <string name="show_details">Brújula detallada</string>
+    <string name="can_show_details">Se pueden activar para guiarse de manera precisa.</string>
+</resources>
