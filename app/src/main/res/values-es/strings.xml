@@ -8,7 +8,9 @@
     <string name="keep_screen_on">Mantener Pantalla Encendida</string>
     <string name="keep_the_screen_on">Mientras se está en la sección de la brújula.</string>
     <string name="compass_fragment_title">Brújula</string>
-    <string name="privacy_policy"><a href="https://bleepingdragon.com/markdown/news-posts/Privacy_Bleeping_Compass/">Política de privacidad</a></string>
+    <string name="privacy_policy">Política de Privacidad</string>
     <string name="show_details">Brújula detallada</string>
     <string name="can_show_details">Se pueden activar para guiarse de manera precisa.</string>
+    <string name="check_the_code_on_github">Mira el código en Github</string>
+    <string name="discover_more_bleeping_dragon_projects">Descubre más proyectos de Bleeping Dragon</string>
 </resources>

@@ -50,15 +50,25 @@
                 android:id="@+id/detailsOnView">
             </include>
 
-            <!-- Setting Tap Layout -->
-            <include layout="@layout/fragment_tap_setting"
-                android:id="@+id/donateView">
+            <!-- Setting Tap Simple Layout -->
+            <include layout="@layout/fragment_tap_setting_simple"
+                android:id="@+id/githubLinkView">
+            </include>
+
+            <!-- Setting Tap Simple Layout -->
+            <include layout="@layout/fragment_tap_setting_simple"
+                android:id="@+id/bleepingLinkView">
+            </include>
+
+            <!-- Setting Tap Simple Layout -->
+            <include layout="@layout/fragment_tap_setting_simple"
+                android:id="@+id/privacyLinkView">
             </include>
 
             <com.google.android.material.imageview.ShapeableImageView
                 android:id="@+id/bleepingLogo"
-                android:layout_width="120dp"
-                android:layout_height="120dp"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="32dp"
                 android:layout_marginBottom="16dp"
@@ -66,36 +76,14 @@
                 app:shapeAppearanceOverlay="@style/circle" />
 
             <TextView
-                android:id="@+id/bleepingDragonLink"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp"
-                android:fontFamily="@font/nunito_sans"
-                android:text="@string/bleepingdragon_com"
-                android:textAlignment="center"
-                android:textColorLink="@color/primary"
-                android:textSize="24sp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.0" />
-
-            <TextView
-                android:id="@+id/privacyPolicyLink"
+                android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/nunito_sans"
-                android:text="@string/privacy_policy"
-                android:textAlignment="center"
-                android:textColorLink="@color/primary"
-                android:textSize="16sp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.0" />
-
+                android:gravity="center|center_vertical"
+                android:text="Bleeping Dragon"
+                android:textSize="20sp"
+                android:textStyle="bold" />
         </LinearLayout>
 
     </ScrollView>

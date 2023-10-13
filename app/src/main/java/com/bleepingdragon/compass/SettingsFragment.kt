@@ -1,15 +1,15 @@
 package com.bleepingdragon.compass
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
-import android.text.method.LinkMovementMethod
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.view.WindowManager
-import com.bleepingdragon.compass.modules.SharedPreferences
+import androidx.fragment.app.Fragment
 import com.bleepingdragon.compass.databinding.FragmentSettingsBinding
-
+import com.bleepingdragon.compass.modules.SharedPreferences
 
 
 class SettingsFragment : Fragment() {
@@ -53,12 +53,12 @@ class SettingsFragment : Fragment() {
         binding.detailsOnView.settingTitle.text = getString(R.string.show_details)
         binding.detailsOnView.viewSwitch.text = getString(R.string.can_show_details)
 
+        binding.githubLinkView.settingTitle.text = getString(R.string.check_the_code_on_github)
+        binding.bleepingLinkView.settingTitle.text = getString(R.string.discover_more_bleeping_dragon_projects)
+        binding.privacyLinkView.settingTitle.text = getString(R.string.privacy_policy)
+
         //Clear the screen always on (only used in compass fragment)
         requireActivity().window.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
-
-        //Make links clickable
-        binding.bleepingDragonLink.movementMethod = LinkMovementMethod.getInstance()
-        binding.privacyPolicyLink.movementMethod = LinkMovementMethod.getInstance()
 
         //Bind the actions
         binding.screenOnView.settingToggleView.setOnClickListener {
@@ -71,6 +71,21 @@ class SettingsFragment : Fragment() {
             val previousValue = SharedPreferences.GetBoolPreference("isDetailsActive", requireActivity())
             SharedPreferences.SetBoolPreference("isDetailsActive", !previousValue , this.requireActivity())
             binding.detailsOnView.viewSwitch.isChecked = !previousValue
+        }
+
+        binding.githubLinkView.settingTapView.setOnClickListener {
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/Bleeping-Dragon/BleepingCompass"))
+            startActivity(browserIntent)
+        }
+
+        binding.bleepingLinkView.settingTapView.setOnClickListener {
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://bleepingdragon.com"))
+            startActivity(browserIntent)
+        }
+
+        binding.privacyLinkView.settingTapView.setOnClickListener {
+            val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://bleepingdragon.com/markdown/privacy-policies/BleepingCompass/"))
+            startActivity(browserIntent)
         }
     }
 
